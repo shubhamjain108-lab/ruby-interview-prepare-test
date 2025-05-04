@@ -1,5 +1,5 @@
-1) 1004. Max Consecutive Ones III
-2) 1. Two Sum
+1) 1004 Max Consecutive Ones III
+2) 1 Two Sum
 3) 41. First Missing Positive
 4) 53. Maximum Subarray
 5) 66. Plus One
