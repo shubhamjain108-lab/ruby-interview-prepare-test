@@ -14,8 +14,8 @@
 14) reverse-kth
 15) longest substring without repeating char
 16) reverse integer
-17) longest common prefix
-18) Twp Sum
+17) longest common prefix ------------------------------ str = ['flower', 'flow', 'fly']
+18) Two Sum  ------------------------------------------  nums = [2,7,11,15], target = 9
 19) Contiguous Array
 20) Array Partition
 21) Max Consecutive Ones III
