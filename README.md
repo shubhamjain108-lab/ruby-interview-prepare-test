@@ -11,8 +11,8 @@
 11) Wiggle Sort II
 12) valid-parentheses
 13) First Missing Positive
-14) reverse-kth
-15) longest substring without repeating char
+14) reverse-kth ---------------------------------------- arr = [1,2, 3,4, 5, 6] k = 2
+15) longest substring without repeating char ----------- str = 'abcdab'
 16) reverse integer
 17) longest common prefix ------------------------------ str = ['flower', 'flow', 'fly']
 18) Two Sum  ------------------------------------------  nums = [2,7,11,15], target = 9
