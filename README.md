@@ -26,3 +26,5 @@
 26) FizzBuzz
 27) bubble sort
 28) find nth max element
+29) Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order --------- nums = [1,3,5,6] target = 5
+30) Given a non-empty array of integers nums, every element appears twice except for one. Find that single one ------------  nums = [2,2,1]
