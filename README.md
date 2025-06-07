@@ -24,3 +24,5 @@
 24) Find kth most duplicate occurerence ----------------------  arr = [1,2,2,3,3,3,4,4,4,4,4,5,5,5,5,5] k = 2
 25) Find all duplicate occurerence of most element -----------  arr = [1,2,2,3,3,3,4,4,4,4,4,5,5,5,5,5]
 26) FizzBuzz
+27) bubble sort
+28) find nth max element
