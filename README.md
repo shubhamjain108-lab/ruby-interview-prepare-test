@@ -19,4 +19,6 @@
 19) Contiguous Array
 20) Array Partition
 21) Max Consecutive Ones III
-22) Count Duplicate occurerence from 5X5 matrix
+22) Find all duplicate occurerence from 5X5 matrix
+23) Find most duplicate occurerence ----------------------  arr = [1,2,2,3,3,3,4,4,4,4,4,5,5,5,5,5]
+24) Find kth most duplicate occurerence ----------------------  arr = [1,2,2,3,3,3,4,4,4,4,4,5,5,5,5,5] k = 2
